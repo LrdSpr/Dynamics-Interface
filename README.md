@@ -1,4 +1,4 @@
 # Dynamics-Interface
-Dynamics Products like main menu and grid
+Dynamics products like main menu and grid
 
 Developed using HTML+CSS+JQUERY
